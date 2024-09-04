@@ -12,12 +12,6 @@ Welcome to the **Food Delivery Website** project! This repository hosts a fully 
 - **Customer Accounts**: Easy sign-up and login with order history and favorite items.
 - **Admin Dashboard**: Manage restaurants, menus, orders, and customers with a powerful admin panel.
 
-## 🛠️ Technologies Used
-
-- **Frontend**: HTML5, CSS3, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Payment Integration**: Stripe API
   
 ## 📚 Documentation
 
